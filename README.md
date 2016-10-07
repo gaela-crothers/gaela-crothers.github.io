@@ -1,2 +1,2 @@
 # gaela-crothers.github.io
-blog
+Gaela's  Blog

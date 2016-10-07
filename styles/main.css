@@ -1,0 +1,46 @@
+body {
+  background: black;
+  align-items:left;
+  color: white;
+  }
+
+p {
+  color:white;
+  }
+
+h1 {
+  color:royalblue;
+  font-family: cursive;
+  padding: 15px
+  }
+
+h2 {
+  color:green;
+  }
+
+h4 {
+    color:green;
+    }
+
+a {
+ color:grey;
+  }
+
+.intro {
+
+  }
+
+.image {
+  width: 20%
+  }
+
+.content {
+  color: white;
+    }
+
+.footer {
+  font-family: monospace;
+  align:center;
+  padding-top: 15%;
+  color: white;
+  }
